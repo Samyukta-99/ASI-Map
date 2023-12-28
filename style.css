@@ -1,0 +1,32 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+html, body, #map { 
+    height: 100%;
+    width: 100%;
+ }
+
+.custom-popup {
+    background-color: #fff;
+    border: 2px solid #333;
+    padding: 10px;
+    text-align: center;
+    border-radius: 5px;
+}
+
+.custom-popup img {
+    max-width: 100%;
+    height: auto;
+    margin-bottom: 10px;
+}
+
+.custom-popup p {
+    margin: 0;
+}
+
+.custom-popup strong {
+    display: block;
+    margin-bottom : 5px;
+}
